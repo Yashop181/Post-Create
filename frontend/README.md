@@ -30,7 +30,7 @@ Welcome to the Post Creating  App! This application provides a platform for user
 ### Getting Started
 To start using the app, follow these steps:
 
-- Clone the repository from GitHub.
+- Clone the repository from GitHub Link `https://github.com/Yashop181/Post-Create.git`.
 
 - Navigate to the project directory in your terminal.
 
